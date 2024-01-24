@@ -23,6 +23,12 @@ body{
         padding: 1em;
         /* border: 1px solid white; */
       }
+	.media-icons{
+        display: flex;
+        /* border: 1px solid wheat; */
+        width: 300px;
+        justify-content: space-between;
+      }
       .link-boxes{
         display: flex;
         padding-top: 1em;        
